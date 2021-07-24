@@ -1,0 +1,22 @@
+{
+    "name": "libcrc",
+    "version": "1.0.0",
+    "description": "A library for computing and checking CRC checksums.",
+    "keywords": "crc, crc8, crc16, crc32, checksum, verify",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/khoek/libcrc.git"
+    },
+    "authors": [
+        {
+            "name": "Keeley Hoek",
+            "email": "keeley@hoek.io",
+            "url": "https://hoek.io"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/khoek/libcrc",
+    "frameworks": "espidf",
+    "platforms": "espressif32",
+    "dependencies": {}
+}
